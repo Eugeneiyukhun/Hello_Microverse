@@ -1,5 +1,5 @@
 # Hello_Microverse
-Hello World
+
 
 
 
@@ -38,9 +38,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/Eugeneiyukhun)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eugene-iyukhun-bb491612a)
-- Twitter: [twitter](https://twitter.com/EIyukhun)
+- GitHub: [Eugene Iyukhun](https://github.com/Eugeneiyukhun)
+- LinkedIn: [Eugene Iyukhun](https://www.linkedin.com/in/eugene-iyukhun-bb491612a)
+- Twitter: [Eugene Iyukhun](https://twitter.com/EIyukhun)
 
 ## 🤝 Contributing
 
@@ -58,5 +58,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT.md](./LICENSE) licensed.
 
